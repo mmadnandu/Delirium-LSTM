@@ -24,8 +24,6 @@ renv::init()
 # git and github configuration
 usethis::use_git()
 # -------------(run in terminal)
-# git config --global user.name "mmadnandu"
-# git config --global user.email "adnan.mdmohiuddin@mayo.edu"
 usethis::use_github()
 # usethis::create_github_token()
 # usethis::edit_r_environ()
